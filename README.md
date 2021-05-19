@@ -4,8 +4,8 @@
 I originally fell in love with data from researching what I would find in the news.  To me, proper data visualization
 is one of the most impressive way to convey very esoteric concepts.  I also find Time Series extremely fascinating.
 
-- 🌱 I just recently graduated from Flatiron School Bootcamp where I built a lot of machine learning foundations.  
-I am going to be starting classes for graduate school courses this summer at Boston University.
+- 🌱 I just recently graduated from Flatiron School Bootcamp where I built the foundations for machine learning.  
+I am going to be starting classes for graduate school this summer at Boston University.
 
 - 💞️ I’m looking to collaborate on beginning projects.  I am at the beginning of my data career and would like a team
 I can grow with.
