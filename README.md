@@ -4,11 +4,9 @@
 I originally fell in love with data from researching what I would find in the news.  To me, proper data visualization
 is one of the most impressive way to convey very esoteric concepts.  I also find Time Series extremely fascinating.
 
-- 🌱 I just recently graduated from Flatiron School Bootcamp where I built the foundations for machine learning.  
-I started classes for graduate school this summer (2021) at Boston University.
-
-- 💞️ I’m looking to collaborate on beginning projects.  I am at the beginning of my data career and would like a team
-I can grow with.
+- 🌱 I graduated from Boston University Metropolitan College in May 2023 with a Master's in Applied Data Analytics.
+  
+- 💞️ When I am not working with data I can be found in the park, going on hikes, at the theatre, or working on a craft project.
 
 - 📫 How to reach me:
 ozbunae@gmail.com
